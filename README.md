@@ -1,6 +1,6 @@
 # ConsumoApi
 
-Este projeto foi gerado com CLI angular versão 1.7.1.
+Este projeto foi gerado com CLI angular versão 5.2.0.
 
 ## start Api
 
